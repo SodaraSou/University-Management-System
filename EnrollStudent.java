@@ -14,7 +14,7 @@ class Enroll {
     private String deptName;
     private int lastId = 0;
 
-    // Default constructor  
+    // Default constructor
     public Enroll(String enrollId, String studentId, String studentName, String deptId, String deptName) {
         this.enrollId = enrollId;
         this.studentId = studentId;
